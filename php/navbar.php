@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md fixed-top navbar-light bg-white shadow-sm">
+<nav class="navbar navbar-expand-md fixed-top navbar-light bg-white border-bottom border-light shadow-sm">
 	<div class="container">
 		<a class="navbar-brand" href="<?php echo $site->url() ?>">
 		        <?php echo $site->title() ?>
