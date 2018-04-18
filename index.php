@@ -46,6 +46,7 @@
 	<!-- Javascript -->
 	<?php
 		echo Theme::jquery();
+	        echo Theme::js('js/popper.min.js');
 		echo Theme::js('js/bootstrap.min.js');
 	?>
 
