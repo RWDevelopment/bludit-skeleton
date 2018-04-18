@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md fixed-top navbar-light bg-white shadow-sm">
 	<div class="container">
 		<a class="navbar-brand" href="<?php echo $site->url() ?>">
-			<span class="text-white"><?php echo $site->title() ?></span>
+		        <?php echo $site->title() ?>
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
